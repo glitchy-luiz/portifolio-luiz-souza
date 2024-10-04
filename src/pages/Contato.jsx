@@ -5,9 +5,9 @@ function Contato (){
 
     const redes = [
         {
-            img: '',
+            img: 'https://placehold.co/60x60',
             link: '',
-            nome: ''
+            nome: 'Github'
         },
     ]
 

@@ -4,7 +4,7 @@ function Cardprojeto ({projeto}){
         <>
         {
             projeto.map((pegaprojeto) => (
-                <div className="space-y-16">
+                <div className="space-y-16 my-10">
                     <div className="flex flex-col lg:flex-row items-center justify-between bg-blue-400 p-8 rounded-xl">
                         <img className="w-64 h-64 rounded-lg mb-8 lg:mb-0 lg:mr-8" src={pegaprojeto.img} alt=""/>
                         <div className="cont-p">

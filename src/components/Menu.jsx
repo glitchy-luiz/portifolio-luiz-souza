@@ -8,6 +8,7 @@ function Menu (){
                     <h2 className="nome mr-40">Luiz Souza</h2>
                     <div>
                         <NavLink className="mx-10" to='/'>Home</NavLink>
+                        <NavLink className="mx-10" to='/projetos'>Projetos</NavLink>
                         <NavLink className="mx-10" to='/contato'>Contato</NavLink>
                     </div>
                 </div>

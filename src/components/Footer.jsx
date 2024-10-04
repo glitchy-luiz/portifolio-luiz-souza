@@ -2,19 +2,16 @@
 function Footer (){
     return(
         <>
-        <footer className="pe">
+        <footer className="bg-blue-400 p-8 text-center flex justify-around">
             <div className="pe-esq">
-                <h4>Lorem</h4>
-                <div className="f-flex">
-                    <p className="p-footer">ndjskdas</p>
-                    <p className="p-footer">edindajsakj</p>
-                </div>
+                <h4 className="text-xl mb-4">Lorem</h4>
+                <p>ndjskdas | edindajsakj</p>
             </div>
             <img className="footer-centro" src="https://placehold.co/100x100" alt=""/>
-            <div className="pe-dir">
-                <img className="img-pe" src="https://placehold.co/60x60" alt=""/>
-                <img className="img-pe" src="https://placehold.co/60x60" alt=""/>
-                <img className="img-pe" src="https://placehold.co/60x60" alt=""/>
+            <div className="flex justify-center space-x-4 mt-4">
+                <img className="w-16 h-16" src="https://placehold.co/60x60" alt=""/>
+                <img className="w-16 h-16" src="https://placehold.co/60x60" alt=""/>
+                <img className="w-16 h-16" src="https://placehold.co/60x60" alt=""/>
             </div>
         </footer>
         </>

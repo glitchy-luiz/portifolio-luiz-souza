@@ -6,15 +6,20 @@ function Contato (){
     const redes = [
         {
             img: 'https://placehold.co/60x60',
-            link: '',
+            link: 'https://github.com/glitchy-luiz',
             nome: 'Github'
+        },
+        {
+            img: 'https://placehold.co/60x60',
+            link: 'https://www.linkedin.com/in/luizfernando-souza/',
+            nome: 'Linkedin'
         },
     ]
 
     return(
         <>
             <Formulario/>
-            <Social dados={redes}/>
+            <Social className='flex' dados={redes}/>
         </>
     )
 }

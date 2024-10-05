@@ -5,8 +5,10 @@ function Social ({dados}){
         {
             dados.map((pegasocial) => (
             <a href={pegasocial.link}>
-                <img src={pegasocial.img} alt={pegasocial.nome} />
-                <p>{pegasocial.nome}</p>
+                <div className="text-center space-y-4 py-5">
+                        <img className="w-24 h-24 mx-auto" src={pegasocial.img}/>
+                        <p>{pegasocial.nome}</p>
+                    </div>
             </a>
             ))
         }

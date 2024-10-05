@@ -17,11 +17,13 @@ export default function Detalheprojeto (){
                             <div className="cont-p">
                                 <p className="text-2xl font-bold mb-4">{proj.titulo}</p>
                                 <p className="mb-4">{proj.texto}</p>
+                                <p className="mb-4">{proj.texto2}</p>
                                 <ul className="flex space-x-4">
                                     <li className="px-4 py-2 border-2 border-gray-900">{proj.tag1}</li>
                                     <li className="px-4 py-2 border-2 border-gray-900">{proj.tag2}</li>
                                     <li className="px-4 py-2 border-2 border-gray-900">{proj.tag3}</li>
                                 </ul>
+                                <a href={proj.link}>Confira aqui!</a>
                             </div>
                         </div>
                     </div>

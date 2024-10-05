@@ -6,7 +6,9 @@
         "tag1":"tag",
         "tag2":"tag",
         "tag3":"tag",
-        "slug": "proj1"
+        "slug": "proj1",
+        "texto2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, magnam placeat. Doloremque debitis velit voluptates. Voluptatum distinctio saepe earum modi nobis atque asperiores perferendis! Ut similique molestias rem error. Fugit.",
+        "link":"https://github.com/glitchy-luiz"
     },
     {
         "img":"https://placehold.co/250x250",
@@ -15,6 +17,8 @@
         "tag1":"tag",
         "tag2":"tag",
         "tag3":"tag",
-        "slug": "proj2"
+        "slug": "proj2",
+        "texto2":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, magnam placeat. Doloremque debitis velit voluptates. Voluptatum distinctio saepe earum modi nobis atque asperiores perferendis! Ut similique molestias rem error. Fugit.",
+        "link":"https://github.com/glitchy-luiz"
     }
 ]

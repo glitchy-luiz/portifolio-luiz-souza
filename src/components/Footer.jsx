@@ -1,3 +1,6 @@
+import { SlSocialGithub } from "react-icons/sl";
+import { SlSocialLinkedin } from "react-icons/sl";
+import { MdOutlineMail } from "react-icons/md";
 
 function Footer (){
     return(
@@ -9,9 +12,9 @@ function Footer (){
             </div>
             <img className="footer-centro" src="https://placehold.co/100x100" alt=""/>
             <div className="flex justify-center space-x-4 mt-4">
-                <img className="w-16 h-16" src="https://placehold.co/60x60" alt=""/>
-                <img className="w-16 h-16" src="https://placehold.co/60x60" alt=""/>
-                <img className="w-16 h-16" src="https://placehold.co/60x60" alt=""/>
+                <SlSocialGithub/>
+                <SlSocialLinkedin/>
+                <MdOutlineMail/>
             </div>
         </footer>
         </>

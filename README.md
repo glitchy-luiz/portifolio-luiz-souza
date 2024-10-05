@@ -17,3 +17,5 @@ Este projeto interiro foi feito usando o React Vite com Javascript como base, e 
 <br/>
 <br/>
 Foi usado a biblioteca do react icons para as midias sociais, e principalmente, toda a responsividade e estilização foi feita com o tailwindcss para o vite.
+
+### Muito obrigado pela sua atenção!!

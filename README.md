@@ -1,8 +1,16 @@
-# React + Vite
+<p align="center">
+ <h1 align="center">Portifólio</h2>
+ <p align="center">Bem-vindo ao repositório do meu portifolio próprio</p>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Páginas
+Este é um pequeno projeto onde tento falar um pouco sobre mim e sobre oque eu faço, no site temos uma página de Home, em que falo um pouco sobre mim mesmo e também mostro alguns cards de pequenas curiosidades que eu sei. 
+<br/>
+<br/>
+No menu é possivel viajar para outras páginas como por exemplo os projetos, lá temos alguns cards dinâmicos com uma breve informação sobre o que é aquele determinado projeto, junto com uma imagem e tags do projeto, ao clicar no card, você é levado a uma pequena página de detalhes daquele projeto.
+<br/>
+<br/>
+E por último temos minha página de contato, onde tem um pequeno formulário que possibilita o envio de uma mensagem para mim, e também temos algumas das minhas redes sociais para você acessar clicando nelas
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias
+Este projeto interiro foi feito usando o React Vite com Javascript como base, 

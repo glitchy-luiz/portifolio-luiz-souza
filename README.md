@@ -13,4 +13,7 @@ No menu é possivel viajar para outras páginas como por exemplo os projetos, l�
 E por último temos minha página de contato, onde tem um pequeno formulário que possibilita o envio de uma mensagem para mim, e também temos algumas das minhas redes sociais para você acessar clicando nelas
 
 ## Tecnologias
-Este projeto interiro foi feito usando o React Vite com Javascript como base, 
+Este projeto interiro foi feito usando o React Vite com Javascript como base, e dividido em diversos componentes e páginas para melhor organização e re-utilização de código, como por exemplo os diversos cards do site, feitos utilizando o sistema de props e json do react
+<br/>
+<br/>
+Foi usado a biblioteca do react icons para as midias sociais, e principalmente, toda a responsividade e estilização foi feita com o tailwindcss para o vite.
